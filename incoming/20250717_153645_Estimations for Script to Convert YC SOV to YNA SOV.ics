@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Hussain Darwish";RSVP=TRUE:mailto:Hussain.Darwish@us.yazaki.co
+	m
+ATTENDEE;CN="Pardhava Vourganti";RSVP=TRUE:mailto:Pardhava.Vourganti@us.yaz
+	aki.com
+ATTENDEE;CN="Taha Shaukat";RSVP=TRUE:mailto:Taha.Shaukat@us.yazaki.com
+ATTENDEE;CN="Hadi Osman";RSVP=TRUE:mailto:Hadi.Osman@us.yazaki.com
+ATTENDEE;CN="Zack Oudeif";RSVP=TRUE:mailto:Zackary.Oudeif@us.yazaki.com
+ATTENDEE;CN="Charles Beck";RSVP=TRUE:mailto:Charles.Beck@us.yazaki.com
+ATTENDEE;CN="Zahra Berro";RSVP=TRUE:mailto:Zahra.Berro@us.yazaki.com
+ATTENDEE;CN="Diego Gonzalez";RSVP=TRUE:mailto:Diego.Gonzalez@us.yazaki.com
+CLASS:PUBLIC
+CREATED:20250718T121757Z
+DESCRIPTION:http://windchill.yna.yazaki.net:7001/im/issues?selection=443725
+	\n\n______________________________________________________________________
+	__________\n\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?
+	omkt=en-US>  \n\nJoin the meeting now <https://teams.microsoft.com/l/meetu
+	p-join/19%3ameeting_MWQ5NDQ0ZWYtYjhkZS00YTI4LTlhNmYtYzNjNzgxYzA5Zjkz%40thr
+	ead.v2/0?context=%7b%22Tid%22%3a%227ecb0f97-ad14-4987-8c2b-cd2bb4e8208a%22
+	%2c%22Oid%22%3a%2283a201ab-d3be-44f9-b9b5-1c7b2e0e18c1%22%7d>  \n\nMeeting
+	 ID: 257 663 097 572 5 \n\nPasscode: ys37nx7R \n\n________________________
+	________\n\nDial in by phone \n\n+1 248-333-8425\,\,348663908# <tel:+12483
+	338425\,\,348663908>  United States\, Pontiac \n\nFind a local number <htt
+	ps://dialin.teams.microsoft.com/16560f7c-d713-42ec-a826-a560bc1f9ac0?id=34
+	8663908>  \n\nPhone conference ID: 348 663 908# \n\nFor organizers: Meetin
+	g options <https://teams.microsoft.com/meetingOptions/?organizerId=83a201a
+	b-d3be-44f9-b9b5-1c7b2e0e18c1&tenantId=7ecb0f97-ad14-4987-8c2b-cd2bb4e8208
+	a&threadId=19_meeting_MWQ5NDQ0ZWYtYjhkZS00YTI4LTlhNmYtYzNjNzgxYzA5Zjkz@thr
+	ead.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.te
+	ams.microsoft.com/usp/pstnconferencing>  \n\n_____________________________
+	___________________________________________________\n\n \n\n
+DTEND;TZID="Eastern Standard Time":20250718T140000
+DTSTAMP:20250717T193636Z
+DTSTART;TZID="Eastern Standard Time":20250718T133000
+LAST-MODIFIED:20250718T121757Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Monika Ravulakole":mailto:Monika.Ravulakole@us.yazaki.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:Estimations for Script to Convert YC SOV to YNA SOV
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000040FA4A5D2FF7DB01000000000000000
+	010000000796531236547BD47AD6544DABE7920AE
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta name="Gener
+	ator" content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v
+	\\:* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\
+	nw\\:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\
+	;}\n</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	
+	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-fac
+	e\n	{font-family:"Yu Gothic"\;\n	panose-1:2 11 4 0 0 0 0 0 0 0\;}\n@font-f
+	ace\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-fac
+	e\n	{font-family:Aptos\;}\n@font-face\n	{font-family:"\\@Yu Gothic"\;\n	pa
+	nose-1:2 11 4 0 0 0 0 0 0 0\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	p
+	anose-1:2 11 5 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li
+	.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-fam
+	ily:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-prio
+	rity:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\nspan.me-email-
+	text\n	{mso-style-name:me-email-text\;}\nspan.me-email-text-secondary\n	{m
+	so-style-name:me-email-text-secondary\;}\nspan.EmailStyle20\n	{mso-style-t
+	ype:personal-compose\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	
+	font-size:10.0pt\;\n	mso-ligatures:none\;}\n@page WordSection1\n	{size:8.5
+	in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:
+	WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:e
+	xt="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<
+	o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapel
+	ayout></xml><![endif]--></head><body lang="EN-US" link="#0563C1" vlink="#9
+	54F72" style="word-wrap:break-word"><div class="WordSection1"><p class="Ms
+	oNormal"><a href="http://windchill.yna.yazaki.net:7001/im/issues?selection
+	=443725">http://windchill.yna.yazaki.net:7001/im/issues?selection=443725</
+	a><o:p></o:p></p><div><div style="margin-bottom:.25in\;overflow:hidden"><p
+	 class="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-s
+	erif\;color:#242424">_____________________________________________________
+	___________________________</span><span style="font-size:12.0pt\;font-fami
+	ly:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><o:p></o:p></span></
+	p></div><div style="margin-bottom:9.0pt"><p class="MsoNormal"><span class=
+	"me-email-text"><b><span style="font-size:18.0pt\;font-family:&quot\;Segoe
+	 UI&quot\;\,sans-serif\;color:#242424">Microsoft Teams</span></b></span><s
+	pan style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">
+	 <a href="https://aka.ms/JoinTeamsMeeting?omkt=en-US"><span style="font-si
+	ze:10.5pt\;color:#5B5FC7">Need help?</span></a> <o:p></o:p></span></p></di
+	v><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span style="font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><a href="https:/
+	/teams.microsoft.com/l/meetup-join/19%3ameeting_MWQ5NDQ0ZWYtYjhkZS00YTI4LT
+	lhNmYtYzNjNzgxYzA5Zjkz%40thread.v2/0?context=%7b%22Tid%22%3a%227ecb0f97-ad
+	14-4987-8c2b-cd2bb4e8208a%22%2c%22Oid%22%3a%2283a201ab-d3be-44f9-b9b5-1c7b
+	2e0e18c1%22%7d" target="_blank" title="Meeting join link"><b><span style="
+	font-size:15.0pt\;color:#5B5FC7">Join the meeting now</span></b></a> <o:p>
+	</o:p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNorma
+	l"><span class="me-email-text-secondary"><span style="font-size:10.5pt\;fo
+	nt-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Meeting ID: <
+	/span></span><span class="me-email-text"><span style="font-size:10.5pt\;fo
+	nt-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">257 663 097 5
+	72 5</span></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-se
+	rif\;color:#242424"> <o:p></o:p></span></p></div><div style="margin-bottom
+	:.25in"><p class="MsoNormal"><span class="me-email-text-secondary"><span s
+	tyle="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;co
+	lor:#616161">Passcode: </span></span><span class="me-email-text"><span sty
+	le="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;colo
+	r:#242424">ys37nx7R</span></span><span style="font-family:&quot\;Segoe UI&
+	quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><div style
+	="margin-bottom:.25in"><div class="MsoNormal" align="center" style="text-a
+	lign:center"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;
+	color:#242424"><hr size="1" width="100%" align="center"></span></div></div
+	><div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span class="m
+	e-email-text"><b><span style="font-family:&quot\;Segoe UI&quot\;\,sans-ser
+	if\;color:#242424">Dial in by phone</span></b></span><span style="font-fam
+	ily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span>
+	</p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span styl
+	e="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><a href=
+	"tel:+12483338425\,\,348663908"><span style="font-size:10.5pt\;color:#5B5F
+	C7">+1 248-333-8425\,\,348663908#</span></a> </span><span class="me-email-
+	text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,s
+	ans-serif\;color:#616161">United States\, Pontiac</span></span><span style
+	="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o
+	:p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal">
+	<span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424
+	"><a href="https://dialin.teams.microsoft.com/16560f7c-d713-42ec-a826-a560
+	bc1f9ac0?id=348663908"><span style="font-size:10.5pt\;color:#5B5FC7">Find 
+	a local number</span></a> <o:p></o:p></span></p></div></div><div style="ma
+	rgin-bottom:.25in"><p class="MsoNormal"><span class="me-email-text-seconda
+	ry"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,san
+	s-serif\;color:#616161">Phone conference ID: </span></span><span class="me
+	-email-text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&qu
+	ot\;\,sans-serif\;color:#242424">348 663 908#</span></span><span style="fo
+	nt-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p><
+	/span></p></div><div><p class="MsoNormal"><span class="me-email-text-secon
+	dary"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,s
+	ans-serif\;color:#616161">For organizers: </span></span><span style="font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><a href="https:/
+	/teams.microsoft.com/meetingOptions/?organizerId=83a201ab-d3be-44f9-b9b5-1
+	c7b2e0e18c1&amp\;tenantId=7ecb0f97-ad14-4987-8c2b-cd2bb4e8208a&amp\;thread
+	Id=19_meeting_MWQ5NDQ0ZWYtYjhkZS00YTI4LTlhNmYtYzNjNzgxYzA5Zjkz@thread.v2&a
+	mp\;messageId=0&amp\;language=en-US" target="_blank"><span style="font-siz
+	e:10.5pt\;color:#5B5FC7">Meeting options</span></a> </span><span style="fo
+	nt-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#D1D1D1">|</span><span
+	 style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <a
+	 href="https://dialin.teams.microsoft.com/usp/pstnconferencing" target="_b
+	lank"><span style="font-size:10.5pt\;color:#5B5FC7">Reset dial-in PIN</spa
+	n></a> <o:p></o:p></span></p></div><div style="margin-bottom:.25in\;overfl
+	ow:hidden"><p class="MsoNormal"><span style="font-family:&quot\;Segoe UI&q
+	uot\;\,sans-serif\;color:#242424">________________________________________
+	________________________________________<o:p></o:p></span></p></div></div>
+	<p class="MsoNormal"><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

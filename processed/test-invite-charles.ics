@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Yazaki//Test Invite//EN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:charles.beck@us.yazaki.com
+DTSTAMP:20250701T133000Z
+DTSTART:20250701T140000Z
+DTEND:20250701T150000Z
+SUMMARY:Test Calendar Invite
+DESCRIPTION:This is a test invite sent manually.
+LOCATION:Zoom or Room B
+ORGANIZER;CN=Test Sender:MAILTO:charles.beck@us.yazaki.com
+ATTENDEE;CN=Charles Beck;RSVP=TRUE:MAILTO:charles.beck@us.yazaki.com
+ATTENDEE;CN=Zahra Berro;RSVP=TRUE:MAILTO:zahra.berro@us.yazaki.com
+END:VEVENT
+END:VCALENDAR

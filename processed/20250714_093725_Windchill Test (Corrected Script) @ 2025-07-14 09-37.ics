@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+ATTENDEE;CN="Charles Beck";RSVP=TRUE:mailto:Charles.Beck@us.yazaki.com
+CLASS:PUBLIC
+CREATED:20250714T133753Z
+DESCRIPTION:[You don't often get email from thepattyc123@gmail.com. Learn w
+	hy this is important at https://aka.ms/LearnAboutSenderIdentification ]\n\
+	nCAUTION: This email originated outside of the organization. Do not click 
+	links or open attachments unless you recognize the sender and know the con
+	tent is safe. If the email is suspicious\, please report it using the 'Phi
+	sh Alert Report' button.\n\n\nThis is a test meeting invite using the corr
+	ected script with proper attendee parameters.\n
+DTEND:20250714T143900Z
+DTSTAMP:20250714T133728Z
+DTSTART:20250714T133900Z
+LAST-MODIFIED:20250714T133753Z
+ORGANIZER;CN="Test Script":mailto:thepattyc123@gmail.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:Windchill Test (Corrected Script) @ 2025-07-14 09:37
+TRANSP:OPAQUE
+UID:deb751c3-56c7-41e9-9671-b107241ee2d8
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.18925.20138">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/plain format -->\n\n<P><FONT SIZE=2>[You don't often get email 
+	from thepattyc123@gmail.com. Learn why this is important at <A HREF="https
+	://aka.ms/LearnAboutSenderIdentification">https://aka.ms/LearnAboutSenderI
+	dentification</A> ]</FONT></P>\n\n<P><FONT SIZE=2>CAUTION: This email orig
+	inated outside of the organization. Do not click links or open attachments
+	 unless you recognize the sender and know the content is safe. If the emai
+	l is suspicious\, please report it using the 'Phish Alert Report' button.<
+	/FONT></P>\n<BR>\n\n<P><FONT SIZE=2>This is a test meeting invite using th
+	e corrected script with proper attendee parameters.</FONT>\n</P>\n\n</BODY
+	>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Diego Gonzalez";RSVP=TRUE:mailto:Diego.Gonzalez@us.yazaki.com
+ATTENDEE;CN="Zahra Berro";RSVP=TRUE:mailto:Zahra.Berro@us.yazaki.com
+ATTENDEE;CN="CR Canton 42w (8) Teams Room";CUTYPE=RESOURCE;ROLE=NON-PARTICI
+	PANT;RSVP=TRUE:mailto:CR_Cant_42w@us.yazaki.com
+CLASS:PUBLIC
+CREATED:20250717T174851Z
+DESCRIPTION:\n_____________________________________________________________
+	___________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsM
+	eeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/
+	meetup-join/19%3ameeting_MDcxMGUwZDAtOWMwNS00YzlmLWFjZGEtY2Q0YjUwZTkyMTM1%
+	40thread.v2/0?context=%7b%22Tid%22%3a%227ecb0f97-ad14-4987-8c2b-cd2bb4e820
+	8a%22%2c%22Oid%22%3a%22aec088da-0221-4c38-937b-c04ccd76368d%22%7d>  \nMeet
+	ing ID: 253 060 865 638 2 \nPasscode: TK7Uo7cz \n_________________________
+	_______\n\nDial in by phone \n+1 248-333-8425\,\,761087649# <tel:+12483338
+	425\,\,761087649#>  United States\, Pontiac \nFind a local number <https:/
+	/dialin.teams.microsoft.com/16560f7c-d713-42ec-a826-a560bc1f9ac0?id=761087
+	649>  \nPhone conference ID: 761 087 649# \nFor organizers: Meeting option
+	s <https://teams.microsoft.com/meetingOptions/?organizerId=aec088da-0221-4
+	c38-937b-c04ccd76368d&tenantId=7ecb0f97-ad14-4987-8c2b-cd2bb4e8208a&thread
+	Id=19_meeting_MDcxMGUwZDAtOWMwNS00YzlmLWFjZGEtY2Q0YjUwZTkyMTM1@thread.v2&m
+	essageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.micr
+	osoft.com/usp/pstnconferencing>  \n_______________________________________
+	_________________________________________\n
+DTEND;TZID="Eastern Standard Time":20250717T143000
+DTSTAMP:20250717T174439Z
+DTSTART;TZID="Eastern Standard Time":20250717T133000
+LAST-MODIFIED:20250717T174851Z
+LOCATION:CR Canton 42w (8) Teams Room
+ORGANIZER;CN="Charles Beck":mailto:Charles.Beck@us.yazaki.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Intern Sync-Up
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000001801DE7642F7DB01000000000000000
+	0100000000FFBEE59BE652648A9ED5726293339F2
+X-ALT-DESC;FMTTYPE=text/html:<html>\n<head>\n\n</head>\n<body>\n<br>\n<div 
+	style="max-width: 600px\; color: #242424\; font-family:'Segoe UI'\,'Helvet
+	ica Neue'\,Helvetica\,Arial\,sans-serif" class="me-email-text">\n<div styl
+	e="margin-bottom:24px\;overflow:hidden\;white-space:nowrap\;" aria-hidden=
+	"true">\n_________________________________________________________________
+	_______________</div>\n<div style="margin-bottom: 12px\;"><span class="me-
+	email-text" style="font-size: 24px\;font-weight: 700\; margin-right:12px\;
+	">Microsoft Teams</span>\n<a id="meet_invite_block.action.help" class="me-
+	email-link" style="font-size:14px\; text-decoration:underline\; color: #5B
+	5FC7\;" href="https://aka.ms/JoinTeamsMeeting?omkt=en-US">\nNeed help?</a>
+	 </div>\n<div style="margin-bottom: 6px\;"><a id="meet_invite_block.action
+	.join_link" title="Meeting join link" class="me-email-headline" style="fon
+	t-size: 20px\; font-weight:600\; text-decoration: underline\; color: #5B5F
+	C7\;" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDcxMGU
+	wZDAtOWMwNS00YzlmLWFjZGEtY2Q0YjUwZTkyMTM1%40thread.v2/0?context=%7b%22Tid%
+	22%3a%227ecb0f97-ad14-4987-8c2b-cd2bb4e8208a%22%2c%22Oid%22%3a%22aec088da-
+	0221-4c38-937b-c04ccd76368d%22%7d" target="_blank" rel="noreferrer noopene
+	r">Join\n the meeting now</a> </div>\n<div style="margin-bottom: 6px\;"><s
+	pan class="me-email-text-secondary" style="font-size: 14px\; color: #61616
+	1\;">Meeting ID:\n</span><span class="me-email-text" style="font-size: 14p
+	x\; color: #242424\;">253 060 865 638 2</span>\n</div>\n<div style="margin
+	-bottom: 24px\;"><span class="me-email-text-secondary" style="font-size: 1
+	4px\; color: #616161\;">Passcode:\n</span><span class="me-email-text" styl
+	e="font-size: 14px\; color: #242424\;">TK7Uo7cz</span>\n</div>\n<div style
+	="margin-bottom: 24px\; max-width: 532px\;">\n<hr style="border: 0\; backg
+	round: #D1D1D1\; height: 1px\;">\n</div>\n<div>\n<div style="margin-bottom
+	: 6px\;"><span class="me-email-text" style="font-size: 16px\; color: #2424
+	24\; font-weight: 600\; margin-right: 4px\;">Dial in by phone</span>\n</di
+	v>\n<div style="margin-bottom: 6px\;"><a id="meet_invite_block.action.join
+	_phone_number1" class="me-email-link" style="font-size: 14px\; text-decora
+	tion: underline\; color: #5B5FC7\; margin-right: 6px\;" href="tel:+1248333
+	8425\,\,761087649#">+1 248-333-8425\,\,761087649#</a>\n<span class="me-ema
+	il-text" style="font-size: 14px\; color: #616161\;">United States\, Pontia
+	c</span>\n</div>\n<div style="margin-bottom: 6px\;"><a id="meet_invite_blo
+	ck.action.join_phone_find_local_number" class="me-email-link" style="font-
+	size: 14px\; text-decoration: underline\; color: #5B5FC7" href="https://di
+	alin.teams.microsoft.com/16560f7c-d713-42ec-a826-a560bc1f9ac0?id=761087649
+	">Find\n a local number</a> </div>\n</div>\n<div style="margin-bottom: 24p
+	x\;"><span class="me-email-text-secondary" style="font-size: 14px\; color:
+	 #616161\;">Phone conference ID:\n</span><span class="me-email-text" style
+	="font-size: 14px\; color: #242424\;">761 087 649#</span>\n</div>\n<div><s
+	pan class="me-email-text-secondary" style="font-size: 14px\; color: #61616
+	1\;">For organizers:\n</span><a id="meet_invite_block.action.organizer_mee
+	t_options" class="me-email-link" style="font-size: 14px\; text-decoration:
+	 underline\; color: #5B5FC7\;" target="_blank" href="https://teams.microso
+	ft.com/meetingOptions/?organizerId=aec088da-0221-4c38-937b-c04ccd76368d&am
+	p\;tenantId=7ecb0f97-ad14-4987-8c2b-cd2bb4e8208a&amp\;threadId=19_meeting_
+	MDcxMGUwZDAtOWMwNS00YzlmLWFjZGEtY2Q0YjUwZTkyMTM1@thread.v2&amp\;messageId=
+	0&amp\;language=en-US" rel="noreferrer noopener">Meeting\n options</a> <sp
+	an style="color: #D1D1D1">|</span> <a id="meet_invite_block.action.organiz
+	er_reset_dialin_pin" class="me-email-link" style="font-size: 14px\; text-d
+	ecoration: underline\; color: #5B5FC7\;" target="_blank" href="https://dia
+	lin.teams.microsoft.com/usp/pstnconferencing" rel="noreferrer noopener">\n
+	Reset dial-in PIN</a> </div>\n<div style="margin-top: 24px\; margin-bottom
+	: 6px\;"></div>\n<div style="margin-bottom: 24px\;"></div>\n<div style="ma
+	rgin-bottom:24px\;overflow:hidden\;white-space:nowrap\;" aria-hidden="true
+	">\n______________________________________________________________________
+	__________</div>\n</div>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MS-OLK-APPTLASTSEQUENCE:0
+X-MS-OLK-APPTSEQTIME:20250717T174439Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
