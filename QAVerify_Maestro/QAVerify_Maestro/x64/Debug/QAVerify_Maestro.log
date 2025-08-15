@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  QAVerify_Maestro.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  QAVerify_Maestro.vcxproj -> C:\Users\10032877\Documents\DJ_VSIM\Software Development\Eng\Tools\QAVerify_Maestro\x64\Debug\QAVerify_Maestro.exe
